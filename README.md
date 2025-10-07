@@ -58,8 +58,6 @@ Omnera is a full-stack blog application built with **Java Spring Boot** and **Th
 
 ## Author
 **Pankaj Sapkal**  
-- Email: sapkal.pankaj@gmail.com  
-- GitHub: [https://github.com/psapkal474](https://github.com/psapkal474)  
 
 ---
 
